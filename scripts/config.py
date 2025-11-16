@@ -1,0 +1,5 @@
+RAW_DATA_PATH = "../data/raw/marketing_campaign_dataset.csv"
+PROCESSED_DATA_PATH = "../data/processed/cleaned_marketing_data.csv"
+DB_PATH = "../data/marketing_dashboard.db"
+REPORTS_DIR = "../reports/"
+TABLE_NAME = "campaign_performance"
